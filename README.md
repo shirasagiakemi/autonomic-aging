@@ -22,11 +22,14 @@ should be adjusted to your local data location.
 ## Data availability
 
 Raw data are not redistributed in this repository. See original sources:
-- PhysioNet Autonomic Aging DB: [link]
-- Fantasia / NSR-RR (PhysioNet): [link]
-- GSE262619 (GEO): [link]
-- OEP001041 (NGDC): [link] — access may require application; see NGDC data use policy.
-
+- PhysioNet Autonomic Aging DB: [https://physionet.org/content/autonomic-aging-cardiovascular/]
+- Fantasia / NSR-RR (PhysioNet): [https://physionet.org/content/fantasia/]
+- GSE262619 (GEO): [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE262619 ]
+- - OEP001041 (NODE): https://www.biosino.org/node/project/detail/OEP001041
+  Processed count/FPKM data are publicly available; raw individual-level
+  sequencing data require ethics-committee-approved access.
+  Primary source: Xia et al., Nat Metab (2020). Also used as an external
+  validation cohort in Gao, Li & Cai, J Gerontol A (2025), glaf054.
 ## License
 
 Code: MIT License (see LICENSE). Data usage is governed by each original
