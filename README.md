@@ -14,7 +14,7 @@ Analysis code accompanying:
 |---|---|---|
 | `01_hrv_main/ECSoC_AutonomicAging_v8_step15_extended.ipynb` | Sections 3.1–3.3, 3.5 | PhysioNet Autonomic Aging DB, Fantasia, NSR-RR |
 | `02_gse262619_discovery/GSE262619_immune_aging_analysis_v2.ipynb` | Section 3.4 (discovery cohort) | GEO GSE262619 |
-| `03_oep001041_companion/OEP001041_Age40to70_DE_GSEA_v11.ipynb` | Section 3.4 (companion cohort, incl. NLR_proxy sensitivity) | NGDC OEP001041 |
+| `03_oep001041_companion/OEP001041_Age40to70_DE_GSEA_v11.ipynb` | Section 3.4 (companion cohort, incl. NLR_proxy sensitivity) | NODE accession OEP001041 |
 
 ## Environment
 
