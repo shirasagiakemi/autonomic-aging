@@ -4,7 +4,9 @@ Analysis code for age-separated maxima in HRV DFA scaling exponents (α1, α2) a
 
 Analysis code accompanying:
 > Okabe, H. (2026). Age-Separated Maxima of CHI, α1, α2 in Heart Rate
-> Variability DFA Scaling Exponents. [preprint DOI to be added]
+> Variability DFA Scaling Exponents. [preprint DOI
+10.5281/zenodo.21712528
+> ]
 
 ## Contents
 
